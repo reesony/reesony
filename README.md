@@ -1,14 +1,14 @@
 ### Hello, Welcome to my Github
 ### I'm Sungyoon Lee and introduce the field of development and research.
 ---
-📖#### What I'm currently researching is...
+#### 📖What I'm currently researching is...
 ---
 - Natural Language Processing
 - Language model
 - Deep Learning
 - Machine Learning
 ---
-🖥️#### Tech stack
+#### 🖥️Tech stack
 ---
 - use often
 	
