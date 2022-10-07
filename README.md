@@ -32,6 +32,10 @@
     - Docker
     - WanDB
 
+---
+Notion Link
+---
+- https://www.notion.so/58c7421027604eff866086d2a59a3d6b
 
 
 <!--
