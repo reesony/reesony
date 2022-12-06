@@ -37,6 +37,11 @@
 ---
 - https://www.notion.so/58c7421027604eff866086d2a59a3d6b
 
+---
+🏛️Velog Link for research
+---
+- https://velog.io/@syoon369
+---
 
 <!--
 **reesony/reesony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
