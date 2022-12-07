@@ -15,6 +15,7 @@
     - Huggingface
     - PyTorch
     - Python
+    - WanDB
 - can use
 	
     - TensorFlow
@@ -30,7 +31,7 @@
     - Node.JS
     - Java
     - Docker
-    - WanDB
+    
 
 ---
 🏛️Notion Link for the detail information
